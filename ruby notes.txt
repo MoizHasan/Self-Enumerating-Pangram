@@ -1,0 +1,36 @@
+Self Documenting Pangram
+
+if count is > 1 s+1
++1 to all letters in count
+key is letter a-z value is instances. 
+
+special letters that need to be updated once string is being created.
+e,f,g,h,i,l,n,o,r,s,t,u,v,w,x,y
+
+
+a,b,c,d,j,k,m,p,q,z
+
+calculate fixed letters
+
+initialize a hash with seed sentence of some other solution.
+
+
+if guess != actual 
+
+set guess to rand in range
+do this for all letters
+create new sentence from resulting guess hash
+actual_hash from new sentence. 
+
+7379 iterations
+The solution to the CATS problem contains precisely fou
+-one 'e's, six 'f's, one 'g', seven 'h's, twelve 'i's,
+ 'n's, nineteen 'o's, three 'p's, one 'q', ten 'r's, th
+six 'v's, seven 'w's, four 'x's, six 'y's, and one 'z'.
+
+C:\Users\Moiz Hasan\Desktop\pangram\answer>ruby pangram
+1525572 iterations
+The solution to the CATS problem contains precisely fou
+-one 'e's, six 'f's, one 'g', seven 'h's, twelve 'i's,
+ 'n's, nineteen 'o's, three 'p's, one 'q', ten 'r's, th
+six 'v's, seven 'w's, four 'x's, six 'y's, and one 'z'.

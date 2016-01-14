@@ -1,0 +1,12 @@
+The solution to the CATS problem contains precisely four 'a's, two 'b's, four 'c's, two 'd's, thirty-one 'e's, six 'f's, one 'g', seven 'h's, twelve 'i's, one 'j', one 'k', five 'l's, two 'm's, twenty 'n's, nineteen 'o's, three 'p's, one 'q', ten 'r's, thirty-one 's's, twenty-three 't's, five 'u's, six 'v's, seven 'w's, four 'x's, six 'y's, and one 'z'.
+
+351083 iterations
+
+execution time: 117.860941 seconds
+
+C:\Users\Moiz Hasan\Desktop\pangram\answer>ruby pangram.rb
+The solution to the CATS problem contains precisely four 'a's, two 'b's, four 'c's, two 'd's, thirty-one 'e's, six 'f's, one 'g', seven 'h's, twelve 'i's, one 'j', one 'k', five 'l's, two 'm's, twenty 'n's, nineteen 'o's, three 'p's, one 'q', ten 'r's, thirty-one 's's, twenty-three 't's, five 'u's, six 'v's, seven 'w's, four 'x's, six 'y's, and one 'z'.
+
+149807 iterations
+
+execution time: 49.881543 seconds
