@@ -66,6 +66,6 @@ def find_sentence
 	sentence + "\n\n" + i.to_s + " iterations" + "\n\n" + "execution time: " + execution.to_s + " seconds"
 end
 
-	p = Pangram.new("The solution to the CATS problem contains precisely")
+	p = Pangram.new("This pangram contains")
 	puts p.find_sentence
 end
